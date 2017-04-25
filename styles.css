@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+</style>
+*{
+  outline: 1px dotted black;
+}
+
+
+body {
+   background-color: white;
+   margin: 0;
+   font-family: 'Lora', serif;
+}
+
+.nav{
+  margin-top: 0;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 2000px;
+}
+
+
+.nav ol{
+  padding: 50px;
+  padding: 35px;
+  background-color: black;
+  margin: 0;
+
+}
+
+.nav li {
+       display: block;
+       float: left;
+       color: white;
+       padding: 0 15px;
+       font-size: 1.5rem;
+     }
+
+.background{
+ margin-top: 0;
+}
+
+.underline{
+      color: red;
+      background-color: black;
+}
+
+.button{
+  text-decoration: none;
+}
+
+.dish{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 410px;
+  padding-top: 50px;
+}
